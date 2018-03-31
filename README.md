@@ -1,5 +1,17 @@
 # hw01
 Repository for homework 1
 # Short Bio on Tarryn Rennie 
-I was born and raised in Harare, Zimbabwe in 1995. I moved to the United States when I was 18, in 2013, to pursue an undergraduate degree on a swimming scholarship to California State University, Fresno. I pursed a B.A. in Media, Communications and Journalism, with a minor in Art History. 
-TSR test adding a line
+I decided that for this assignment I was going to tell you 15 things that you wouldn't know about me, instead of just the usual tired-out blurb. 
+1. I am a Zimbabwean, born and raised. 
+2. I almost qualified the 2016 Olympics for my national team, falling just short. 
+3. I swam in college but retired after my collegiate career was done. I am now a "swammer."
+4. I have a cat, Addie, who I found in a dumpster last January and decided I couldn't part with (much to my former roommates' consternation). 
+5. I had wanted a dog, so decided to try train her... Needless to say, it didn't go well BUT she does come when I whistle. She is the best and is currently sitting on my lap trying to distract me. 
+6. I can draw and paint. I really like doing portraiture. 
+7. I have one sibling, a brother named Piers. We are always mistaken for each other. I am often called sir, and he is called "ma'am," and yes, we don't know why. 
+8. My favourite book is called "The Power of One."I highly recommend it. 
+9. I don't really like movies. They're too long and I get bored half way through. 
+10. Saying that, my guilty pleasure are shows like "The Good Wife," or "Homeland."
+11. I am currently trying to learn French. 
+12. If I could change one thing about myself, I would give myself some musical talent. 
+13. 
