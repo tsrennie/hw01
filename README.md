@@ -2,11 +2,13 @@
 Repository for homework 1
 # Short Bio on Tarryn Rennie 
 ### I decided that for this assignment I was going to tell you **15 things** that you wouldn't know just from meeting me, instead of just the usual tired-out blurb. 
+!(documents/TSR 2017.jpg)
+
 1. I am a Zimbabwean, born and raised. 
 1. I almost qualified the 2016 Olympics for my national team, falling just short. 
 1. I swam in college but retired after my collegiate career was done. I am now a "swammer."
 1. I have a cat, Addie, who I found in a dumpster last January and decided I couldn't part with (much to my former roommates' consternation). My current roommate's name is also Addye, and it is as confusing as it sounds.  
-1. I had wanted a dog, so decided to try train her... Needless to say, it didn't go well BUT she does come when I whistle, which is pretty cool. She is the best and is currently sitting on my lap trying to distract me. 
+1. I had wanted a dog, so decided to try train her... Needless to say, it didn't go well BUT she does come when I whistle, which is pretty cool. She is the best and is currently sitting on my lap trying to distract me.
 1. I can draw and paint. I really like doing portraiture. 
 1. I have one sibling, a brother named Piers. We are always mistaken for each other. I am often called sir, and he is called "ma'am," and yes, we don't know why. 
 1. My favourite book is called *"The Power of One."* I highly recommend it. 
