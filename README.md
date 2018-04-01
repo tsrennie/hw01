@@ -3,12 +3,7 @@ Repository for homework 1
 # Short Bio on Tarryn Rennie 
 
 ### I decided that for this assignment I was going to tell you **15 things** that you wouldn't know just from meeting me, instead of just the usual tired-out blurb. 
-<<<<<<< HEAD
 
-!(https://www.facebook.com/photo.php?fbid=10213060438727022&set=a.1576044162408.77032.1274703402&type=3&theater)
-
-=======
->>>>>>> f2f8a59d6b2815f3d0d1b2d3f7dca04dc5dbce47
 1. I am a Zimbabwean, born and raised. 
 1. I almost qualified the 2016 Olympics for my national team, falling just short. 
 1. I swam in college but retired after my collegiate career was done. I am now a "swammer."
