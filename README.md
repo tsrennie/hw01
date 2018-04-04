@@ -4,7 +4,7 @@ Repository for homework 1
 
 ### I decided that for this assignment I was going to tell you **15 things** that you wouldn't know just from meeting me, instead of just the usual tired-out blurb. 
 
-![Photograph](figures/TSR2017.jpg)
+![Photograph](TSR2017.jpg)
 
 1. I am a Zimbabwean, born and raised. 
 1. I almost qualified the 2016 Olympics for my national team, falling just short. 
